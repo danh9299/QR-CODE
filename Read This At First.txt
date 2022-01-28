@@ -1,0 +1,11 @@
+Please read this note before viewing my source code
+
+The code will not work if you do not install the environment on your computer (terminal)
+
+1. You will need to create a folder, in which you store the Python file.
+2. Open cmd.exe (windows + R, type "cmd", and tap on OK)
+3. As the cmd.exe pops up, you type the following command: cd [the link to your folder you create at 1. step]
+4. Succesfully, we continue to type the next command: py -m pip install qrcode
+5. If the command works, continue to type the next command: py -m pip install pillow
+
+If everything works well, open the code and runs it!
